@@ -18,12 +18,12 @@ Triggers a buzzer for unsafe conditions.
 
 ## Project Structure
 
-|-- wearable_device.ino               # Firmware for wearable device
-|-- hazardous_condition_detection.ino # Firmware for hazardous condition detection
-|-- ComponentDetails.md               # Details about components used
-|-- CircuitDiagram1.png               # Wearable device circuit diagram
-|-- CircuitDiagram2.png               # Hazard detection system circuit diagram
-|-- README.md                         # Project description and usage
+- |-- wearable_device.ino               # Firmware for wearable device
+- |-- hazardous_condition_detection.ino # Firmware for hazardous condition detection
+- |-- ComponentDetails.md               # Details about components used
+- |-- CircuitDiagram1.png               # Wearable device circuit diagram
+- |-- CircuitDiagram2.png               # Hazard detection system circuit diagram
+- |-- README.md                         # Project description and usage
 
 ## How It Works
 
